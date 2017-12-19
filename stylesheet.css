@@ -1,0 +1,23 @@
+.piece {
+	-fx-text-fill:white;
+	-fx-font-family: PCMyungjo Regular, Arial;
+	-fx-alignment:center;
+	/*-fx-background-color:green;*/
+}
+
+#game-over-pane {
+	-fx-background-color:rgba(0,0,0,0.6);
+}
+
+.game-over-label {
+	-fx-text-fill:white;
+	-fx-font-family:Arial;
+	-fx-font-size:35px;
+	-fx-font-weight:bold;
+}
+
+#status-label {
+	-fx-text-fill:white;
+	-fx-font-family:arial;
+	-fx-font-size:15px;
+}
