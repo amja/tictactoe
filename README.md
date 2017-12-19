@@ -12,4 +12,10 @@ This project was written in Java, which we learned from scratch in the class. Th
 are using the JavaFX library. Much of the styling is done with JavaFX custom css. The main algorithm
 for the computer player is a [Monte Carlo Tree Search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search).
 Since the gamespace is so large and it is hard to rank the quality of moves, MCTS seemed to be an
-appropriate algorithm.
+appropriate algorithm. The project gives the user the option to play normal Tic-Tac-Toe or the
+Ultimate version.
+
+This was the largest Java project I had designed and implemented so far and so was quite an exciting
+challenge.
+
+A user guide, containing play instructions can be found [here](https://amos.im/resources/tictactoe.pdf).
