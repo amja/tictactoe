@@ -19,3 +19,5 @@ This was the largest Java project I had designed and implemented so far and so w
 challenge.
 
 A user guide, containing play instructions can be found [here](https://amos.im/resources/tictactoe.pdf).
+
+You can also play the game by downloading a JAR [here](http://amos.im/TicTacToe.jar).
