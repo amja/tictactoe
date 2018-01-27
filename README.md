@@ -1,5 +1,5 @@
 # Ultimate Tic-Tac-Toe
-An independent final project for CS0150 at Brown University. Created in the autumn of 2016.
+Created in the Autumn of 2016 at Brown University.
 
 ## Why
 Instead of choosing one of the three predefined projects, I chose to design my own. This involved
